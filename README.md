@@ -1,3 +1,3 @@
 # Task Manager
 
-This task manager app is created using flask.
+This repo contains the code for a task manager web app which is created using Flask.
